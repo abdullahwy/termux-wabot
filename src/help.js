@@ -86,6 +86,11 @@ command : *${prefix}simih*
 desc : activate simi mode in the group
 usage : *${prefix}simih 1* to activate simi mode and *${prefix}simih 0* to deactivate simi mode
 note : This command can be used if you are a group admin\n`
+> *Gzabber Bot CMD* <
+command : *${prefix}gzabber*
+desc : about the bot
+usage : *${prefix}gzabber*\n
+note : All the infor,ations about the gzabber bot!\n	
 }
 
 exports.help = help
